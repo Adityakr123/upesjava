@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exp1 {
+public class exp1question1 {
     //1.	Write program to print the kth digit from last. e.g. input 23617 and k=4 output 3.
     // x=23617/10=2361/10=236/10=23
     //x%10=23%10=3
