@@ -36,3 +36,4 @@
         System.out.println(text.indexOf("o")); // 4
         System.out.println(text.indexOf("root")); // we'll get -1
         System.out.println(text.replace('H','W'));
+//this is a testcode send by maam 
